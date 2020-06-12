@@ -1,12 +1,11 @@
-[
-{'id':1,
+[{'id':1,
   'nombre':'Termo',
-  'precio':450,
+  'precio':'450',
   'descripcion':'Termo para tomar mates'
 }
 {'id':2,
   'nombre':'Alfajor',
-  'precio':30,
+  'precio':'30',
   'descripcion':'Aljafor de fruta'
 }
 ]
