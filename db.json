@@ -1,4 +1,4 @@
-'productos': [
+{"productos": [
   {
     "id": 1,
     "name": "Agus Perez",
@@ -11,4 +11,4 @@
     "description": "Fachero, facherito2",
     "price":'8002'
   }
-]
+]}
