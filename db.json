@@ -1,28 +1,28 @@
 {
     "productos": [
         {
-            'id' : 1,
-            'descripcion' : 'El mejor alfajor del mercado argentino',
-            'precio' : '$24',
-            'sku' : '0001SKU',
-            'nombre' : 'Alfajor Guaymallen - Triple de fruta',
-            'cantidad_disponible' : '54 unidades'
+            "id" : 1,
+            "descripcion" : "El mejor alfajor del mercado argentino",
+            "precio" : "$24",
+            "sku" : "0001SKU",
+            "nombre" : "Alfajor Guaymallen - Triple de fruta",
+            "cantidad_disponible" : "54 unidades"
         },
         {
-            'id' : 2,
-            'nombre' : 'Velador',
-            'descripcion' : 'Para alumbrar tus noches de estudio',
-            'precio' : '$630',
-            'sku' : '0002SKU',
-            'cantidad_disponible' : '12 unidades'
+            "id" : 2,
+            "nombre" : "Velador",
+            "descripcion" : "Para alumbrar tus noches de estudio",
+            "precio" : "$630",
+            "sku" : "0002SKU",
+            "cantidad_disponible" : "12 unidades"
         },
         {
-            'id' : 3,
-            'nombre' : 'Termo Autocebande 500ml',
-            'descripcion' : 'El mejor termo para tomar mates en cuarentena',
-            'precio' : '$1230',
-            'sku' : '0003SKU',
-            'cantidad_disponible' : '32 unidades'
+            "id" : 3,
+            "nombre" : "Termo Autocebande 500ml",
+            "descripcion" : "El mejor termo para tomar mates en cuarentena",
+            "precio" : "$1230",
+            "sku" : "0003SKU",
+            "cantidad_disponible" : "32 unidades"
         }
     ]
 }
