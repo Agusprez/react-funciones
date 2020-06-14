@@ -1,20 +1,28 @@
 {
     "productos": [
         {
-            "id":1,
-            "sku": "001",
-            "nombre": "Agus Perez",
-            "descripcion": "Estatuilla de Batman de 30cm de alto",
-            "precio": "8500",
-            "imagen":"https://lucasismael.com.ar/wp-content/uploads/2020/04/20200404-_DSC7458.jpg"
+            'id' : 1,
+            'descripcion' : 'El mejor alfajor del mercado argentino',
+            'precio' : '$24',
+            'sku' : '0001SKU',
+            'nombre' : 'Alfajor Guaymallen - Triple de fruta',
+            'cantidad_disponible' : '54 unidades'
         },
         {
-            "id":2,
-            "sku": "002",
-            "nombre": "Batman Arkham Origins",
-            "descripcion": "Figura de acción Batman Arkham Origins",
-            "precio": "2500",
-            "imagen":"https://lucasismael.com.ar/wp-content/uploads/2020/06/IMG_20171002_111642_561-scaled.jpg"
+            'id' : 2,
+            'nombre' : 'Velador',
+            'descripcion' : 'Para alumbrar tus noches de estudio',
+            'precio' : '$630',
+            'sku' : '0002SKU',
+            'cantidad_disponible' : '12 unidades'
+        },
+        {
+            'id' : 3,
+            'nombre' : 'Termo Autocebande 500ml',
+            'descripcion' : 'El mejor termo para tomar mates en cuarentena',
+            'precio' : '$1230',
+            'sku' : '0003SKU',
+            'cantidad_disponible' : '32 unidades'
         }
     ]
 }
