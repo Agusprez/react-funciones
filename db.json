@@ -1,14 +1,16 @@
-{"productos": [
+{"productos": 
+[
   {
     "id": 1,
     "name": "Agus Perez",
     "description": "Fachero, facherito",
-    "price":'800'
+    "price":800
   },
   {
     "id": 2,
     "name": "Agus Perez2",
     "description": "Fachero, facherito2",
-    "price":'8002'
+    "price":8002
   }
-]}
+]
+}
