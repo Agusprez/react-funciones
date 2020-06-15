@@ -26,6 +26,24 @@
             "sku" : "0003SKU",
             "cantidad_disponible" : "32 unidades",
             "imagen" : "https://raw.githubusercontent.com/Agusprez/react-funciones/master/ebdd97d1d3d94d02772cfbf7f9cc3f6e_l.jpg"
+        },
+        {
+            "id" : 4,
+            "nombre" : "Smart TV LED",
+            "descripcion" : "La última tecnología al alcance de tu bolsillo",
+            "precio" : "$22350",
+            "sku" : "0004SKU",
+            "cantidad_disponible" : "2 unidades",
+            "imagen" : ""
+        },
+        {
+            "id" : 5,
+            "nombre" : "Vino Gata Flora",
+            "descripcion" : "Ta re bueno, by Kurde",
+            "precio" : "$450",
+            "sku" : "0005SKU",
+            "cantidad_disponible" : "29 unidades",
+            "imagen" : ""
         }
     ]
 }
