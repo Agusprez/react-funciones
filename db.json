@@ -43,7 +43,7 @@
             "precio" : "$450",
             "sku" : "0005SKU",
             "cantidad_disponible" : "29 unidades",
-            "imagen" : ""
+            "imagen" : "https://raw.githubusercontent.com/Agusprez/react-funciones/master/gata-flora-torrontes-reserva-envios--D_NQ_NP_687093-MLA41736812417_052020-F.jpg"
         }
     ]
 }
