@@ -7,7 +7,7 @@
             "sku" : "0001SKU",
             "nombre" : "Alfajor Guaymallen - Triple de fruta",
             "cantidad_disponible" : "54 unidades",
-            "imagen" : "https://raw.githubusercontent.com/Agusprez/react-funciones/master/unnamed.jpg"
+            "imagen" : "https://raw.githubusercontent.com/Agusprez/react-funciones/master/1.jpg"
         },
         {
             "id" : 2,
@@ -16,7 +16,7 @@
             "precio" : "$630",
             "sku" : "0002SKU",
             "cantidad_disponible" : "12 unidades",
-            "imagen" : "https://raw.githubusercontent.com/Agusprez/react-funciones/master/Monta-Mesa-Chica-Negro-y-bronce.jpg"
+            "imagen" : "https://raw.githubusercontent.com/Agusprez/react-funciones/master/2.jpg"
         },
         {
             "id" : 3,
@@ -25,7 +25,7 @@
             "precio" : "$1230",
             "sku" : "0003SKU",
             "cantidad_disponible" : "32 unidades",
-            "imagen" : "https://raw.githubusercontent.com/Agusprez/react-funciones/master/ebdd97d1d3d94d02772cfbf7f9cc3f6e_l.jpg"
+            "imagen" : "https://raw.githubusercontent.com/Agusprez/react-funciones/master/3.jpg"
         },
         {
             "id" : 4,
@@ -34,7 +34,7 @@
             "precio" : "$22350",
             "sku" : "0004SKU",
             "cantidad_disponible" : "2 unidades",
-            "imagen" : "https://raw.githubusercontent.com/Agusprez/react-funciones/master/1129_800.jpg"
+            "imagen" : "https://raw.githubusercontent.com/Agusprez/react-funciones/master/4.jpg"
         },
         {
             "id" : 5,
@@ -43,7 +43,7 @@
             "precio" : "$450",
             "sku" : "0005SKU",
             "cantidad_disponible" : "29 unidades",
-            "imagen" : "https://raw.githubusercontent.com/Agusprez/react-funciones/master/gata-flora-torrontes-reserva-envios--D_NQ_NP_687093-MLA41736812417_052020-F.jpg"
+            "imagen" : "https://raw.githubusercontent.com/Agusprez/react-funciones/master/5.jpg"
         }
     ]
 }
