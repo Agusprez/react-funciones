@@ -25,7 +25,7 @@
             "precio" : "$1230",
             "sku" : "0003SKU",
             "cantidad_disponible" : "32 unidades",
-            "imagen" : ""
+            "imagen" : "https://raw.githubusercontent.com/Agusprez/react-funciones/master/ebdd97d1d3d94d02772cfbf7f9cc3f6e_l.jpg"
         }
     ]
 }
