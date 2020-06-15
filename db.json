@@ -6,7 +6,8 @@
             "precio" : "$24",
             "sku" : "0001SKU",
             "nombre" : "Alfajor Guaymallen - Triple de fruta",
-            "cantidad_disponible" : "54 unidades"
+            "cantidad_disponible" : "54 unidades",
+            "imagen" : "https://lh3.googleusercontent.com/proxy/RVBMFQqH6yHRo_f5wH-hGtRCPLrr0KdiATvhm4cJ7Q4qQPGUC_kwES_luZr90BbDcZeu6EMa3yDn_yVN79ihSrhvNV3KL3Ux-efGAysCAdEK49uun4c1B0LIT1zXaYUYTCZgQWDCe8FOvA"
         },
         {
             "id" : 2,
@@ -14,7 +15,8 @@
             "descripcion" : "Para alumbrar tus noches de estudio",
             "precio" : "$630",
             "sku" : "0002SKU",
-            "cantidad_disponible" : "12 unidades"
+            "cantidad_disponible" : "12 unidades",
+            "imagen" : ""
         },
         {
             "id" : 3,
@@ -22,7 +24,8 @@
             "descripcion" : "El mejor termo para tomar mates en cuarentena",
             "precio" : "$1230",
             "sku" : "0003SKU",
-            "cantidad_disponible" : "32 unidades"
+            "cantidad_disponible" : "32 unidades",
+            "imagen" : ""
         }
     ]
 }
