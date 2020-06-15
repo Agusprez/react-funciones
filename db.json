@@ -34,7 +34,7 @@
             "precio" : "$22350",
             "sku" : "0004SKU",
             "cantidad_disponible" : "2 unidades",
-            "imagen" : ""
+            "imagen" : "https://raw.githubusercontent.com/Agusprez/react-funciones/master/1129_800.jpg"
         },
         {
             "id" : 5,
