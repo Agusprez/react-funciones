@@ -5,7 +5,7 @@
             "descripcion" : "El mejor alfajor del mercado argentino",
             "precio" : "$24",
             "sku" : "0001SKU",
-            "nombre" : "Alfajor Guaymallen - Triple de fruta",
+            "nombre" : "Guaymallen - Triple de fruta",
             "cantidad_disponible" : "54 unidades",
             "imagen" : "https://raw.githubusercontent.com/Agusprez/react-funciones/master/1.jpg"
         },
